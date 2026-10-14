@@ -1,9 +1,6 @@
 # Traffic Analytics Vision Pipeline: Sub-Frame Kinematics & Tracking
 
-
-
-https://github.com/user-attachments/assets/c7642a7c-55a0-4b87-a08f-e59512268ad4
-
+<img width="398" height="298" alt="resultado_preciso" src="https://github.com/user-attachments/assets/754f9fdf-d27f-4694-bafc-438e37d65dcf" />
 
 
 > An edge-ready computer vision infrastructure for automated vehicle detection, deterministic tracking, and high-precision speed estimation using non-calibrated surveillance feeds.
